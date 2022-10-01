@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="src\logo.png" width="200" alt="Mac Os Ventura Theme for Windows 11">
+    <img src="src\logo.png" width="500" alt="Mac Os Ventura Theme for Windows 11">
   </a>
 </p>
 
